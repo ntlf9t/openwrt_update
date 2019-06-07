@@ -1,7 +1,6 @@
 # openwrt_update
  [TG交流群][B]
  
- [QQ交流群][C]
  
 
 提示：
@@ -44,4 +43,4 @@
   
 
 [B]: https://t.me/joinchat/MHkJCxH8gUdV4UFBrxw_Ow
-[C]: https://jq.qq.com/?_wv=1027&k=5b7xL8x
+
